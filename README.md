@@ -26,9 +26,9 @@ Passionate full-stack developer focused on building elegant, scalable, and high-
 
 ```javascript
 const developer = {
-  name: "Hiroshi Tanaka",
+  name: "Oscar Lee",
   role: "Full-Stack Developer",
-  location: "Japan",
+  location: "Finland",
   languages: ["JavaScript", "TypeScript", "Python", "Java"],
   frontend: ["React", "Next.js", "Tailwind CSS", "Redux"],
   backend: ["Node.js", "Express.js", "Django", "Spring Boot"],
