@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Hiroshi Tanaka
+# 👋 Hello, I'm Oscar Lee
 
 <div align="center">
 
