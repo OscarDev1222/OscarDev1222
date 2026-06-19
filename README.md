@@ -123,11 +123,6 @@ const developer = {
 ### Tech Used
 
 `React` `Node.js` `MongoDB` `Express`
-
-🔗 **Live Demo:** [https://yourproject.com](https://yourproject.com)
-
-🔗 **Repository:** [https://github.com/yourusername/project](https://github.com/yourusername/project)
-
 ---
 
 ## ⚡ AI Productivity App
@@ -138,10 +133,6 @@ const developer = {
 
 `Next.js` `TypeScript` `Firebase`
 
-🔗 **Live Demo:** [https://yourproject.com](https://yourproject.com)
-
-🔗 **Repository:** [https://github.com/yourusername/project](https://github.com/yourusername/project)
-
 ---
 
 ## 🛒 Full-Stack E-Commerce Platform
@@ -151,16 +142,6 @@ const developer = {
 ### Tech Used
 
 `Spring Boot` `MySQL` `Docker`
-
-🔗 **Live Demo:** [https://yourproject.com](https://yourproject.com)
-
-🔗 **Repository:** [https://github.com/yourusername/project](https://github.com/yourusername/project)
-
----
-
-# 📈 Contribution Activity
-
-[![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hiro\&theme=tokyo-night)](https://github.com/hiro)
 
 ---
 
