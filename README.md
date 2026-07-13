@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Oscar Lee
+# 👋 Hello!
 
 <div align="center">
 
